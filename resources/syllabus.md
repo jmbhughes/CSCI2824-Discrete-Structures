@@ -3,7 +3,7 @@
 
 ### Course Information 
 * **Section 300**: MTWH 12:45pm-2:00pm in ECES 112 wtih Andrew Altomare
-* **Section 310**: MTWH 2:30pm-3:45pm in ECES 112 with J. Marcus Hughes
+* **Section 310**: MTWH 2:30pm-3:45pm in ECES 112 with J. Marcus Hughes (this section)
 
 
 * **Prerequisites**: 
@@ -11,6 +11,10 @@ Requires prerequisite courses of (CSCI 1200 or CSCI 1300 or CSCI 1310 or CSCI 13
 
 * **Office Hours**: 
 Will be scheduled after evaluating class availability. *Always available for appointment though!*
+
+### Course philosophy
+
+First and foremost, I am most interested in you learning the material rather than getting a good grade or completing a degree requirement. This material is foundational in computer science and many other fields; you will benefit from thoroughly understanding it. I will strive to be accomodating and insightful to maximize your learning this summer. I will emphasize a [growth mindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means) rather than a fixed mindset in every aspect of the course, including in my teaching. If a teaching style is not working for you or a concept is unclear, please tell me. Mistakes are embraced instead of judged; they are how we learn.
 
 ### Why Discrete Structures? 
 
@@ -24,7 +28,7 @@ _Computer Science_ is all about solving interesting problems efficiently and che
 * Understand how to sequence the human genome.
 * Find all the prime factors for really large number (> 10^10000).
 * Write a program to play _go_ (and play better than the best human champion?).
-* Write a program to check if a program is “correct” (keeps your instructor awake at night!).
+* Find al anomalies in a data set and explain why they are anomalous (keeps your instructor awake at night!).
 
 Some of these problems are [really hard](http://en.wikipedia.org/wiki/NP-complete) to solve using a computer. No one knows if there are easy solutions to these problems and it would be nice to see efficient solutions in this century. In this course, we will cover the mathematical foundations that will help us formulate solutions to some of the real problems above. Specifically, we will learn
 
@@ -49,15 +53,15 @@ Roughly, we will cover the following topics (some of them may be skipped dependi
 
 ### Textbook 
 
-We will use [_Discrete Mathematics and Its Applications, 7th ed._](https://smile.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=sr_1_1?s=books&ie=UTF8&qid=1484628806&sr=1-1&keywords=rosen+discrete+math) by Kenneth H. Rosen.  
+I will **not** require a textbook. Previous iterations of this course have used [_Discrete Mathematics and Its Applications, 7th ed._](https://smile.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=sr_1_1?s=books&ie=UTF8&qid=1484628806&sr=1-1&keywords=rosen+discrete+math) by Kenneth H. Rosen. It is expensive, so I do not want to burden you with the cost. Feel free to purchase it or borrow it from the library if it is helpful. 
 
-We realize the book is pricey, but it's pretty well-written and includes lots of cool computer science applications.  Earlier additions are fine, but you'll be responsible for figuring out the section number map between editions for the daily reading. 
+I instead suggest using open source resources such as [ Discrete Mathematics: An Open Introduction ] (http://discrete.openmathbooks.org/dmoi2/frontmatter.html) by Oscar Levin and [ Applied Discrete Structures ](http://faculty.uml.edu/klevasseur/ads/ads.html) by Al Doerr and Ken Levasseur. I will assign readings from these and other free resources. 
+
+In addition, I will make all [course notes](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/tree/master/notes) available before each class. 
 
 ### Course Web Page 
 
-[piazza.com/colorado/summer2019/csci2824/home](piazza.com/colorado/summer2019/csci2824/home)
-
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help quickly and efficiently from classmates and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send private messages to the instructor.  It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
+This term we will be using [Piazza](https://piazza.com/colorado/summer2019/csci2824/home) for class discussion. The system is highly catered to getting you help quickly and efficiently from classmates and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send private messages to the instructor.  It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
 ### Coursework 
 
@@ -67,7 +71,7 @@ Homework will consist of knowledge checks, proofs, and programming assignments. 
 
 Homework is due by **11:59pm** by email the listed due date. Please be mindful of the due dates as unexcused late submissions will not be accepted. If there is some situation that you feel necessitates an extension, please contact me **before** the due data, so we can arrange appropriate modification. Your learning takes priority over deadlines. 
 
-**Quizzes**: After nearly every lecture, there will be a short quiz relating to the material to complete before the next class. In addition, we may sometimes have in-class activities that will count as quizzes.
+**Quizzes**: After every lecture, there will be a short quiz relating to the material to complete before the next class. In addition, we may sometimes have in-class activities that will count as quizzes.
 
 **Exams**: There will be a 24-hour take-home exam half-way through the course and a **cumulative** final exam given during the university scheduled final examination time (TBD).  Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
