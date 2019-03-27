@@ -1,24 +1,16 @@
-# CSCI 2824: Discrete Structures, Fall 2017
+# CSCI 2824: Discrete Structures, Summer 2019
 
 
 ### Course Information 
+* **Section 300**: MTWH 12:45pm-2:00pm in ECES 112 wtih Andrew Altomare
+* **Section 310**: MTWH 2:30pm-3:45pm in ECES 112 with J. Marcus Hughes
 
-* **Section 001**: MWF 10-10:50am in HUMN 1B50 with Chris Ketelsen 
-
-* **Section 002**: MWF 9-9:50am in FLMG 155 with Tony Wong 
-
-* **Section 003**: MWF 11-11:50am in CLRE 207  with Tony Wong 
 
 * **Prerequisites**: 
-	* C- or better in Calculus 1 
-	* C- or better in CSCI 1200, 1300, or 1320
-	* ability (or willingness to learn) to program in Python 3 
+Requires prerequisite courses of (CSCI 1200 or CSCI 1300 or CSCI 1310 or CSCI 1320 or CSCI 2275 or ECEN 1030 or ECEN 1310) and (APPM 1345 or APPM 1350 or MATH 1300 or MATH 1310) (all minimum grade C-).
 
 * **Office Hours**: 
-	* Chris: MWF 11am-12pm in ECOT 731 or by appointment 
-	* Tony: WTh 12:30-2pm in ECOT 623 or by appointment
-	* CAs: TBA
-	* Graders: TBA  
+Will be scheduled after evaluating class availability. *Always available for appointment though!*
 
 ### Why Discrete Structures? 
 
@@ -63,30 +55,32 @@ We realize the book is pricey, but it's pretty well-written and includes lots of
 
 ### Course Web Page 
 
-[https://piazza.com/colorado/fall2017/csci2824](https://piazza.com/colorado/fall2017/csci2824)
+[piazza.com/colorado/summer2019/csci2824/home](piazza.com/colorado/summer2019/csci2824/home)
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me private messages to the instructors.  If you have a question specifically for Tony or Chris, please be sure to address your message to us by name. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help quickly and efficiently from classmates and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send private messages to the instructor.  It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
 ### Coursework 
 
-**Weekly Homework**: Homework will be assigned weekly throughout the course.  There will be two types of homework assignments: online homework through Moodle which may include matching, multiple choice, numerical, or programming questions, and written homework which may include by-hand computations, puzzles, and proofs. You are expected to write up your written solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  See the **Collaboration Policy** below for more details. 
+**Weekly Homework**: Homework will be assigned a week before it is due. You are expected to write up your written solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  See the **Collaboration Policy** below for more details. 
 
-Homework is due by **Noon** on the listed due date. **Your two lowest homework scores will be dropped.**   Please be mindful of the due dates as late submissions will not be accepted.  We accept homework at the start of class or underneath our office doors by **Noon**.  We do **NOT** accept emailed homework under any circumstances.
+Homework will consist of knowledge checks, proofs, and programming assignments. We will use Jupyter Notebooks for all assignments and Python 3 will be the preferred language of the course. This may be modified if the majority of the class suggests a suitable alternative. 
 
-**Exams**: There will be a 90 minute evening midterm during the 8th week of the course and a **cumulative** final exam given during the university scheduled final examination time.  Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
+Homework is due by **11:59pm** by email the listed due date. Please be mindful of the due dates as unexcused late submissions will not be accepted. If there is some situation that you feel necessitates an extension, please contact me **before** the due data, so we can arrange appropriate modification. Your learning takes priority over deadlines. 
+
+**Quizzes**: After nearly every lecture, there will be a short quiz relating to the material to complete before the next class. In addition, we may sometimes have in-class activities that will count as quizzes.
+
+**Exams**: There will be a 24-hour take-home exam half-way through the course and a **cumulative** final exam given during the university scheduled final examination time (TBD).  Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
 **You must obtain an average exam score of at least 50% in order to pass the course with a C- or better.**
-
-**Course Participation**: Occasionally we will solve a short (5-10 minutes) tutorial problem as a class which you will write up and hand in at the end of lecture.  Your course participation grade will be determined by 80% of the given tutorial problems (e.g. if we give 10 tutorial problems we will drop two of them.)  Dropped tutorial problems are to account for routine absences like minor illnesses and other unavoidable events.  You may not make up tutorial problems except in very extreme circumstances.  Attempts to subvert the integrity of participation assignments will be considered an Honor Code violation and will be met with measurable consequences. 
 
 ### Grade Determination 
 
 The overall grades will be based on a cumulative score computed from 
 
-* The weekly homework (40% of the grade)
-* The score from class participation (10% of the grade)
-* The midterm exam (20% of the grade)
-* The final exam (30% of the grade)
+* Weekly homework (50% of the grade)
+* Quizzes (10% of the grade)
+* Midterm exam (20% of the grade)
+* Final exam (20% of the grade)
 
 Unless adjustments are necessary, letter grades will be assigned using the standard grading scale: 
 
