@@ -5,7 +5,7 @@
 
 Department of Computer Science, University of Colorado Boulder 
 
-[Piazza](piazza.com/colorado/summer2019/csci2824/home)
+[Piazza](https://piazza.com/colorado/summer2019/csci2824/home)
 
 [Schedule and Slides](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/schedule.md)
 
