@@ -1,13 +1,9 @@
-### CSCI 2824: Discrete Structures
+### CSCI 2824: Discrete Structures: Summer 2019
 ***
 
 [J. Marcus Hughes](https://www.jmbhughes.com/)
 
-Department of Computer Science
-
-University of Colorado at Boulder 
-
-Summer 2019
+Department of Computer Science, University of Colorado Boulder 
 
 [Piazza](piazza.com/colorado/summer2019/csci2824/home)
 
