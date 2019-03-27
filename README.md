@@ -1,16 +1,16 @@
 ### CSCI 2824: Discrete Structures
 ***
 
-Chris Ketelsen
+[J. Marcus Hughes](https://www.jmbhughes.com/)
 
 Department of Computer Science
 
 University of Colorado at Boulder 
 
-Fall, 2017 
+Summer 2019
 
-[Piazza](piazza.com/colorado/fall2017/csci2824/home)
+[Piazza](piazza.com/colorado/summer2019/csci2824/home)
 
-[Calendar and Slides](https://github.com/chrisketelsen/CSCI2824-Discrete-Structures/blob/master/resources/schedule.md)
+[Schedule and Slides](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/schedule.md)
 
-[Syllabus](https://github.com/chrisketelsen/CSCI2824-Discrete-Structures/blob/master/resources/syllabus.md)
+[Syllabus](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/syllabus.md)
