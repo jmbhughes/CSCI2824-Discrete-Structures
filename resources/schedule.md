@@ -45,8 +45,8 @@
 |      | -       | 8.2, 8.3        |     	Equivalence Relations / Basic Graphs  		  |	
 |        | -       | 9.1, 9.2        |     Graph Theory and Eulerian Tours            |	
 |        | -        | 9.5, 10.1       |  Graph Coloring and Scheduling Problems    |
-|     | -        | 10.2, 10.4, 10.5|       |		Basic Trees      | 
-|        |-       | 10.8            |    |		  Structural Induction on Trees     | 
+|     | -        | 10.2, 10.4, 10.5|     		Basic Trees      | 
+|        |-       | 10.8            |  		  Structural Induction on Trees     | 
 |        | -       | 11.1, 11.2      |    Huffman Encoding                              |	
 |      | -       |                 | **FINAL EXAM**                            |			    |			      | 
 
