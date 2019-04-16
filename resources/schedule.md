@@ -6,7 +6,7 @@
 - Reading assignments are from _Discrete Mathematics With Applications, 5th Ed._ by Epp; They are strongly encouraged but you are welcome to read any text that helps you. You are expected to have some understanding of the linked questions for that day. 
 - Slides will be posted after each lecture as a link for the class topic. 
 
-| Week   | Date         | Due |Reading         |                   Topic             	    | 
+| Week   | Date         | Due |Reading        |                   Topic             	    | 
 |:------:|:------------:| ---|----------------| ------------------------------------------|
 | 1      | 06.03        | Q  |2.1,2.2         | Course goals and motivation, logical forms and statements    |
 |        | 06.04        |    |2.3,2.4         | Arguments and digitial logic circuits					  | 
@@ -23,12 +23,12 @@
 | 4      | 06.24        | Q  |6.1, 6.2        |	Set theory 1		  |
 |        | 06.25        | ---|6.3, 6.4        | Set theory 2	  		  |	
 |        | 06.26        | HW |everything      | Review and activity		  		  |	
-|        | 06.27        | ---|-               | Midterm        |
+|        | 06.27        | ---|-               | **MIDTERM**        |
 | 5      | 07.01        | ---|7.1, 7.2        | Functions     |
 |        | 07.02        | ---|7.3, 7.4        | Composition of functions, cardinality, diagonal argument  |	
 |        | 07.03        | Q  |8.1, 8.2, 8.3   | Relations         |	
 |        | 07.04        | ---|-               | Enjoy your July 4th				  |	
-|  6     | 07.08        | Q  |8.4             | Cryptography            |	
+| 6      | 07.08        | Q  |8.4             | Cryptography            |	
 |        | 07.09        | ---|9.1, 9.2, 9.3   | Intro to probability, possibility trees, multiplication/addition rules   |	
 |        | 07.10        | Q  |9.2, 9.3, 9.4   | Pigeonhole principle 			  |	
 |        | 07.11        | HW |9.5, 9.6        | Permutations and combinations                          |	
@@ -40,5 +40,5 @@
 |        | 07.23        | ---|11.1, 11.2   	  |  Algorithm efficiency      |	
 |        | 07.24        | Q  |11.3, 11.4      |  More algorithm efficiency                  |	
 |        | 07.25        | HW |everything      |	 Review      |	
-|        | TBD          | ---|               | **FINAL EXAM**                      |
+|        | TBD          | ---|                | **FINAL EXAM**                      |
 
