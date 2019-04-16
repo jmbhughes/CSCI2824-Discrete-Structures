@@ -1,52 +1,44 @@
 # CSCI 2824 Calendar
 
 **Notes**:
-- This schedule is a rough approximation and subject to change.
-- Reading assignments are from _Discrete Mathematics With Applications, 5th Ed._ by Epp
+- This schedule is a rough approximation and subject to change. It will be updated after each class with important changes noted on Piazza. 
+- All assignments are due at 11:59PM prompt (unless prior approval has been received) on the day they are listed.
+- Reading assignments are from _Discrete Mathematics With Applications, 5th Ed._ by Epp; They are strongly encouraged but you are welcome to read any text that helps you. You are expected to have some understanding of the linked questions for that day. 
+- Slides will be posted after each lecture as a link for the class topic. 
 
-| Week   | Date         | Reading         |                   Topic             	  | 
-|:------:|:------------:| ----------------| ------------------------------------------|
-| 1      | 06.03        |                 | Discrete Intro. / Binary Arithmetic       |
-|        | 06.04        | 1.1             | Propositional Logic 					  | 
-|        | 06.05        | 1.1, 1.2        | Propositional Logic and Applications      |
-|       | 06.06        |                 | Logical Equivalences                     |
-| 2       | 06.10        | 1.3         |         Predicates and Quantifiers              |	
-|        | 06.11        | 1.4             |       Nested Quantifiers			      |
-|       | 06.12        | 1.5             |      Rules of Inference         |	
-|        | 06.13        | 1.6             | 		   Introduction to Proofs                |
-|  3      | 06.17        | 1.7             | 	        Proof Methods and Strategy           |
-|       | 06.18        | 1.8             | 	         Set Theory and Set Operations      |	
-|        | 06.19        | 2.1, 2.2        |	 	  Set Operations and Functions     |
-|        | 06.20        | 2.2, 2.3        |       Functions and Cardinality-Lite 		  |	
-| 4      | 06.24        | 2.3, 2.5        |	 Sequences 				  |
-|        | 06.25        | 2.4             | 			Algorithms	  		  |	
-|        | 06.26        | 3.1             |  					Complexity		  		  |	
-|       | 06.27        | 3.2, 3.3        | 		               Complexity and Matrix Operations        |
-| 5       | 07.01        | 3.3, 2.6        |     Divisibility and Modular Arithmetic     |
-|        | 07.02        | 4.1, 4.2        | 		 Modular Exponentiation  |	
-|       | 07.03        | 4.2             |           Primes and GCD          |	
-|        | 07.04        | 4.3             | 		Congruences and Applications					  |	
-|  6      | 07.08       | 4.4, 4.5        |    Systems of Congruences            |	
-|       | 07.09        |                 |       Cryptography             |	
-|        | 07.10        | 4.4             | 		Weak Induction 			  |	
-|        | 07.11        | 4.6             |     Strong Induction                           |	
-| 7      | 07.15        | 5.1             |       Recursion                      |	
-|        | 07.16        | 5.2             | 			Counting 			  	    |	
-|        | 07.17        | 5.3, 5.4        | 			The PHP + Perms and Combos 					  |	
-|      | 07.18        | 6.1             |  		   Perms and Combos + Binomial Theorem                       |	
-| 8       | 07.22        | 6.2, 6.3        |  Basic Probability               |	
-|        | 07.23        | 6.4, 6.5  	  |   Basic Probability Theory      |	
-|     | 07.24        | 7.1             |       Bayes' Theorem                  |	
-|        | 07.25        | 7.2             |		    Applications of Bayes' Theorem       |	
-|        | -       | 7.3             |             Recurrences and Dynamic Programming	                |
-|     | -       | 7.3             |      Solving Linear Recurrences      |	
-|        | -      | 8.1             |    Solving Recurrences, continued   |
-|        | -        | 8.2, 8.3        | 		 Basic Relations and Properties          |	
-|      | -       | 8.2, 8.3        |     	Equivalence Relations / Basic Graphs  		  |	
-|        | -       | 9.1, 9.2        |     Graph Theory and Eulerian Tours            |	
-|        | -        | 9.5, 10.1       |  Graph Coloring and Scheduling Problems    |
-|     | -        | 10.2, 10.4, 10.5|     		Basic Trees      | 
-|        |-       | 10.8            |  		  Structural Induction on Trees     | 
-|        | -       | 11.1, 11.2      |    Huffman Encoding                              |	
-|      | -       |                 | **FINAL EXAM**                            |			    |			      | 
+| Week   | Date         | Due |Reading         |                   Topic             	    | 
+|:------:|:------------:| ---|----------------| ------------------------------------------|
+| 1      | 06.03        | Q  |2.1,2.2         | Course goals and motivation, logical forms and statements    |
+|        | 06.04        |    |2.3,2.4         | Arguments and digitial logic circuits					  | 
+|        | 06.05        | Q  |3.1,3.2         | Quantified Logic      |
+|        | 06.06        | HW |3.3,3.4         | Multiple Quantifiers and arguments                  |
+| 2      | 06.10        | Q  |4.1             | Proof intro, writing, guide              |	
+|        | 06.11        | ---|4.2, 4.3        | Rational number proofs, divisibility	      |
+|        | 06.12        | Q  |4.4,4.5,4.6     | Proof by cases, contradiction, and contrapositive        |	
+|        | 06.13        | HW |4.5,4.6,4.7     | More contardiction, contrapositive, and indirect               |
+|  3     | 06.17        | Q  |5.1, 5.2        | Sequence intro, and induction          |
+|        | 06.18        | ---|5.2, 5.3, 5.4   | More induction      |	
+|        | 06.19        | Q  |5.6, 5.7, 5.9   |	Recursion     |
+|        | 06.20        | HW |10.5, 10.6      | Trees and recursion and proof	  |	
+| 4      | 06.24        | Q  |6.1, 6.2        |	Set theory 1		  |
+|        | 06.25        | ---|6.3, 6.4        | Set theory 2	  		  |	
+|        | 06.26        | HW |everything      | Review and activity		  		  |	
+|        | 06.27        | ---|-               | Midterm        |
+| 5      | 07.01        | ---|7.1, 7.2        | Functions     |
+|        | 07.02        | ---|7.3, 7.4        | Composition of functions, cardinality, diagonal argument  |	
+|        | 07.03        | Q  |8.1, 8.2, 8.3   | Relations         |	
+|        | 07.04        | ---|-               | Enjoy your July 4th				  |	
+|  6     | 07.08        | Q  |8.4             | Cryptography            |	
+|        | 07.09        | ---|9.1, 9.2, 9.3   | Intro to probability, possibility trees, multiplication/addition rules   |	
+|        | 07.10        | Q  |9.2, 9.3, 9.4   | Pigeonhole principle 			  |	
+|        | 07.11        | HW |9.5, 9.6        | Permutations and combinations                          |	
+| 7      | 07.15        | Q  |9.8             | Probability axioms and expected value                      |	
+|        | 07.16        | ---|9.9             | Bayes Theorem 			  	    |	
+|        | 07.17        | Q  |10.1            | Graphs					  |	
+|        | 07.18        | HW |10.2, 10.3      | Matrix representation and graph isomorphisms                      |	
+| 8      | 07.22        | Q  |10.4, 10.5, 10.6 | Trees              |	
+|        | 07.23        | ---|11.1, 11.2   	  |  Algorithm efficiency      |	
+|        | 07.24        | Q  |11.3, 11.4      |  More algorithm efficiency                  |	
+|        | 07.25        | HW |everything      |	 Review      |	
+|        | TBD          | ---|               | **FINAL EXAM**                      |
 
