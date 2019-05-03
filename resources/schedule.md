@@ -11,34 +11,38 @@
 | 1      | 06.03        | Q  |2.1,2.2         | Course goals and motivation, logical forms and statements    |
 |        | 06.04        |    |2.3,2.4         | Arguments and digitial logic circuits					  | 
 |        | 06.05        | Q  |3.1,3.2         | Quantified Logic      |
-|        | 06.06        | HW |3.3,3.4         | Multiple Quantifiers and arguments                  |
+|        | 06.06        |    |3.3,3.4         | Multiple Quantifiers and arguments                  |
+|        | 06.06        | HW |                | |
 | 2      | 06.10        | Q  |4.1             | Proof intro, writing, guide              |	
-|        | 06.11        | ---|4.2, 4.3        | Rational number proofs, divisibility	      |
+|        | 06.11        |    |4.2, 4.3        | Rational number proofs, divisibility	      |
 |        | 06.12        | Q  |4.4,4.5,4.6     | Proof by cases, contradiction, and contrapositive        |	
-|        | 06.13        | HW |4.5,4.6,4.7     | More contardiction, contrapositive, and indirect               |
+|        | 06.13        |    |4.5,4.6,4.7     | More contardiction, contrapositive, and indirect               |
+|        | 06.14        | HW |                | |
 |  3     | 06.17        | Q  |5.1, 5.2        | Sequence intro, and induction          |
-|        | 06.18        | ---|5.2, 5.3, 5.4   | More induction      |	
+|        | 06.18        |    |5.2, 5.3, 5.4   | More induction      |	
 |        | 06.19        | Q  |5.6, 5.7, 5.9   |	Recursion     |
-|        | 06.20        | HW |10.5, 10.6      | Trees and recursion and proof	  |	
+|        | 06.20        |    |10.5, 10.6      | Trees and recursion and proof	  |	
+|        | 06.21        | HW |                | |
 | 4      | 06.24        | Q  |6.1, 6.2        |	Set theory 1		  |
-|        | 06.25        | ---|6.3, 6.4        | Set theory 2	  		  |	
+|        | 06.25        |    |6.3, 6.4        | Set theory 2	  		  |	
 |        | 06.26        | HW |everything      | Review and activity		  		  |	
-|        | 06.27        | ---|-               | **MIDTERM**        |
-| 5      | 07.01        | ---|7.1, 7.2        | Functions     |
-|        | 07.02        | ---|7.3, 7.4        | Composition of functions, cardinality, diagonal argument  |	
+|        | 06.27        |    |                | **MIDTERM**        |
+| 5      | 07.01        |    |7.1, 7.2        | Functions     |
+|        | 07.02        |    |7.3, 7.4        | Composition of functions, cardinality, diagonal argument  |	
 |        | 07.03        | Q  |8.1, 8.2, 8.3   | Relations         |	
-|        | 07.04        | ---|-               | Enjoy your July 4th				  |	
+|        | 07.04        |    |                | Enjoy your July 4th				  |	
+|        | 07.05        | HW |                | |
 | 6      | 07.08        | Q  |8.4             | Cryptography            |	
-|        | 07.09        | ---|9.1, 9.2, 9.3   | Intro to probability, possibility trees, multiplication/addition rules   |	
+|        | 07.09        |    |9.1, 9.2, 9.3   | Intro to probability, possibility trees, multiplication/addition rules   |	
 |        | 07.10        | Q  |9.2, 9.3, 9.4   | Pigeonhole principle 			  |	
-|        | 07.11        | HW |9.5, 9.6        | Permutations and combinations                          |	
+|        | 07.11        |    |9.5, 9.6        | Permutations and combinations                          |	
+|        | 07.12        | HW |                | |
 | 7      | 07.15        | Q  |9.8             | Probability axioms and expected value                      |	
-|        | 07.16        | ---|9.9             | Bayes Theorem 			  	    |	
+|        | 07.16        |    |9.9             | Bayes Theorem 			  	    |	
 |        | 07.17        | Q  |10.1            | Graphs					  |	
-|        | 07.18        | HW |10.2, 10.3      | Matrix representation and graph isomorphisms                      |	
-| 8      | 07.22        | Q  |10.4, 10.5, 10.6 | Trees              |	
-|        | 07.23        | ---|11.1, 11.2   	  |  Algorithm efficiency      |	
-|        | 07.24        | Q  |11.3, 11.4      |  More algorithm efficiency                  |	
-|        | 07.25        | HW |everything      |	 Review      |	
-|        | TBD          | ---|                | **FINAL EXAM**                      |
-
+|        | 07.18        |    |10.2, 10.3      | Matrix representation and graph isomorphisms                      |	
+|        | 07.19        | HW |                | |
+| 8      | 07.22        | Q  |10.4, 10.5, 10.6| Trees              |	
+|        | 07.23        |    |11.1, 11.2   	  |  Algorithm efficiency      |	
+|        | 07.24        | Q  |11.3, 11.4      |  More algorithm efficiency, **review!**                  |	
+|        | 07.25        |    |                |	 Final exam      |	
