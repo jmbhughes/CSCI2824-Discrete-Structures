@@ -45,4 +45,4 @@
 | 8      | 07.22        | Q  |10.4, 10.5, 10.6| Trees              |	
 |        | 07.23        |    |11.1, 11.2   	  |  Algorithm efficiency      |	
 |        | 07.24        | Q  |11.3, 11.4      |  More algorithm efficiency, **review!**                  |	
-|        | 07.25        |    |                |	 Final exam      |	
+|        | 07.25        |    |                |	 **Final exam**      |	
