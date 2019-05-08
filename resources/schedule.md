@@ -12,7 +12,7 @@
 |        | 06.04        |    |2.3,2.4         | Arguments and digitial logic circuits					  | 
 |        | 06.05        | Q  |3.1,3.2         | Quantified Logic      |
 |        | 06.06        |    |3.3,3.4         | Multiple Quantifiers and arguments                  |
-|        | 06.06        | HW |                | |
+|        | 06.07        | HW |                | |
 | 2      | 06.10        | Q  |4.1             | Proof intro, writing, guide              |	
 |        | 06.11        |    |4.2, 4.3        | Rational number proofs, divisibility	      |
 |        | 06.12        | Q  |4.4,4.5,4.6     | Proof by cases, contradiction, and contrapositive        |	
