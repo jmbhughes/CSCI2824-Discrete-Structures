@@ -10,8 +10,8 @@
 |:------:|:------------:| ---|----------------| ------------------------------------------|
 | 1      | 06.03        | [Q](https://canvas.colorado.edu/courses/49984/quizzes/63928)  | [2.1,2.2](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/questions_lecture01.md)         | Course goals and motivation, logical forms and statements    |
 |        | 06.04        |    |[2.3,2.4](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/questions_lecture02.md)         | Arguments and digitial logic circuits					  | 
-|        | 06.05        | Q  |3.1,3.2         | Quantified Logic      |
-|        | 06.06        |    |3.3,3.4         | Multiple Quantifiers and arguments                  |
+|        | 06.05        | Q  |[3.1,3.2](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/questions_lecture03.md)         | Quantified Logic      |
+|        | 06.06        |    |[3.3,3.4](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/questions_lecture04.md)         | Multiple Quantifiers and arguments                  |
 |        | 06.07        | [HW](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/hw1.pdf) |                | |
 | 2      | 06.10        | Q  |4.1             | Proof intro, writing, guide              |	
 |        | 06.11        |    |4.2, 4.3        | Rational number proofs, divisibility	      |
