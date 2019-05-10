@@ -4,7 +4,7 @@
 - This schedule is a rough approximation and subject to change. It will be updated after each class with important changes noted on Piazza. 
 - All assignments are due at 11:59PM (unless prior approval has been received) on the day they are listed. Q is for quizzes and HW for regular homeworks.
 - Reading assignments are from _Discrete Mathematics With Applications, 5th Ed._ by Epp; They are strongly encouraged but you are welcome to read any text that helps you. You are expected to have some understanding of the linked questions for that day. 
-- Slides will be posted after each lecture as a link for the class topic. 
+- Slides/Notes will be posted after each lecture as a link for the class topic. 
 
 | Week   | Date         | Due |Reading        |                   Topic             	    | 
 |:------:|:------------:| ---|----------------| ------------------------------------------|
