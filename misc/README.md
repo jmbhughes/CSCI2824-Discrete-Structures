@@ -7,4 +7,3 @@ All course notes are available here. If you see an error, please let me know eit
 | Name | Date Added | Notes |
 |:---:|:---:|:---:|
 | [proof_tips.pdf](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/notes/proof_tips.pdf) | 10 May 2019 |Proof tips available with Epp book |
-| [epp_reviews](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/tree/master/notes/epp_reviews) | 13 May 2019 | Chapter reviews from Epp book, a good list of questions to check your knowledge| 
