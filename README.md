@@ -17,6 +17,6 @@ In this course, we introduce the mathematics at the heart of many ideas of compu
 
 [Syllabus](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/resources/syllabus.md)
 
-[Homework](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/README.md)
+[Homework](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/)
 
 [Notes and References](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/tree/master/notes)
