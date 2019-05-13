@@ -8,7 +8,7 @@
 
 | Week   | Date         | Due |Reading        |                   Topic             	    | 
 |:------:|:------------:| ---|----------------| ------------------------------------------|
-| 1      | 06.03        | [Q](https://canvas.colorado.edu/courses/49984/quizzes/63928)  | [2.1,2.2](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture01.md)         | Course goals and motivation, logical forms and statements [Notes](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/notes/lecture01.pdf)    |
+| 1      | 06.03        | [Q](https://canvas.colorado.edu/courses/49984/quizzes/63928)  | [2.1,2.2](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture01.md)         | Course goals and motivation, logical forms and statements ([notes](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/notes/lecture01.pdf))    |
 |        | 06.04        |    |[2.3,2.4](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture02.md)         | Arguments and digitial logic circuits					  | 
 |        | 06.05        | [Q](https://canvas.colorado.edu/courses/49984/quizzes/64544)  |[3.1,3.2](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture03.md)         | Quantified Logic      |
 |        | 06.06        |    |[3.3,3.4](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture04.md)         | Multiple Quantifiers and arguments                  |
