@@ -31,7 +31,7 @@
 |        | 07.02        |    |7.3, 7.4        | Composition of functions, cardinality, diagonal argument  |	
 |        | 07.03        | Q  |8.1, 8.2, 8.3   | Relations         |	
 |        | 07.04        |    |                | Enjoy your July 4th				  |	
-|        | 07.05        | HW |                | |
+|        | 07.05        |    |                | |
 | 6      | 07.08        | Q  |8.4             | Cryptography            |	
 |        | 07.09        |    |9.1, 9.2, 9.3   | Intro to probability, possibility trees, multiplication/addition rules   |	
 |        | 07.10        | Q  |9.2, 9.3, 9.4   | Pigeonhole principle 			  |	
