@@ -16,7 +16,7 @@
 | 2      | 5 | 06.10        | Q  |[4.1](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture05.md)             | Proof intro, writing, guide              |	
 |        | 6 | 06.11        |    |[4.2, 4.3](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture06.md)        | Rational number proofs, divisibility	      |
 |        | 7 | 06.12        | Q  |[4.4,4.5,4.6](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture07.md)     | Proof by cases, contradiction, and contrapositive        |	
-|        | 8 | 06.13        |    |[4.5,4.6,4.7](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture08.md)     | More contardiction, contrapositive, and indirect               |
+|        | 8 | 06.13        |    |[4.5,4.6,4.7](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture08.md)     | More contradiction, contrapositive, and indirect               |
 |        | | 06.14        | HW |                | |
 |  3     | 9 | 06.17        | Q  |5.1, 5.2        | Sequence intro, and induction          |
 |        | 10 | 06.18        |    |5.2, 5.3, 5.4   | More induction      |	
