@@ -1,6 +1,6 @@
 # Learning Questions: Lecture 2
 - What are the parts of an argument?
-- What is a vlid argument? 
+- What is a valid argument? 
 - What are modus ponens and modus tollens? 
 - What is generalization and specialization? 
 - What are elimination, transitivity, and proof by division into cases? 
