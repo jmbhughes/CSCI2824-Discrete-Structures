@@ -3,14 +3,19 @@
 
 ### Course Information 
 * **Section 300**: MTWH 12:45pm-2:00pm in ECES 112 wtih Andrew Altomare
-* **Section 310**: MTWH 2:30pm-3:45pm in ECES 112 with J. Marcus Hughes (this section)
+* **Section 310**: MTWH 2:30pm-3:45pm in ECES 112 with J. Marcus Hughes **(this section)**
 
 
 * **Prerequisites**: 
 Requires prerequisite courses of (CSCI 1200 or CSCI 1300 or CSCI 1310 or CSCI 1320 or CSCI 2275 or ECEN 1030 or ECEN 1310) and (APPM 1345 or APPM 1350 or MATH 1300 or MATH 1310) (all minimum grade C-).
 
 * **Office Hours**: 
-Will be scheduled after evaluating class availability. *I am always available for appointment though!*
+Regular office hours will be held in ECOT 731:
+  * Mondays 4pm-5pm
+  * Tuesdays 7pm-8pm
+  * Wednesdays 1pm-2pm
+  * Thursdays 10am-11am
+*I am always available for appointment though!*
 
 ### Course philosophy
 
