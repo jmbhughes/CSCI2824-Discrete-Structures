@@ -12,9 +12,7 @@ Requires prerequisite courses of (CSCI 1200 or CSCI 1300 or CSCI 1310 or CSCI 13
 * **Office Hours**: 
 Regular office hours will be held in ECOT 731:
   * Mondays 4pm-5pm
-  * Tuesdays 7pm-8pm
   * Wednesdays 1pm-2pm
-  * Thursdays 10am-11am
 *I am always available for appointment though!*
 
 ### Course philosophy
@@ -71,11 +69,11 @@ This term we will be using [Piazza](https://piazza.com/colorado/summer2019/csci2
 
 **Weekly Homework**: You are expected to write up your written solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  See the **Collaboration Policy** below for more details. 
 
-Homework will consist of proofs and programming assignments. Proofs will help you grow mathematically and allow you to build on the concepts in class. Programming assignments help move the mathematical concepts to an applied setting. Python 3 will be the preferred language for the course programming assignments. Homeworks should be submitted through Canvas. You are encouraged to use LaTeX when submitting your proofs. Learning how to properly typeset will help you later in your career and looks more professional. To encourage this, I will provide templates and guidance. I will also award a small bonus for using LaTeX. 
+Homework will consist of proofs and programming assignments. Proofs will help you grow mathematically and allow you to build on the concepts in class. Programming assignments help move the mathematical concepts to an applied setting. Python 3 will be the preferred language for the course programming assignments. Homeworks should be submitted through Canvas. You will be required to use LaTeX when submitting your proofs. Learning how to properly typeset will help you later in your career and looks more professional. To aid this, I will provide templates and guidance.
 
 Please be mindful of the due dates as unexcused late submissions will not be accepted. If there is some situation that you feel necessitates an extension, please contact me **before** the due date, so we can arrange appropriate modification. Your learning takes priority over deadlines. 
 
-**Quizzes**: We will sometimes have in-class exercises that will count as quiz grades. This will serve to keep you engaged during class as well as serve as an attendance check. In addition, we will have short online quizzes relating to the recent material due every Monday and Wednesday at 11:59pm. These should not take long and will help you evaluate whether you understand the concepts. I will use them to judge how the course needs to be adjusted.
+**Quizzes**: We will sometimes have in-class exercises that will count as quiz grades. This will serve to keep you engaged during class as well as serve as an attendance check. In addition, we will have short online quizzes relating to the recent material due every Tuesday and Thursday at 11:59pm. These should not take long and will help you evaluate whether you understand the concepts. I will use them to judge how the course needs to be adjusted.
 
 **Exams**: There will be a two-part midterm half-way through the course and a **cumulative** final exam given during the university scheduled final examination time.  The midterm will consist of an in-class portion with knowledge check questions and some simpler proofs from in-class and the homeworks. The out-of-class portion will be available for 48 hours and will have some harder proofs and exercises. I do not want you to feel time pressure when trying to create creative proofs. We will then meet individually to discuss your approach and progress. The final will be completely in-class and will assess your overall understanding. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
