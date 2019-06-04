@@ -1,10 +1,8 @@
 # CSCI 2824 Calendar
 
 **Notes**:
-- This schedule is a rough approximation and subject to change. It will be updated after each class with important changes noted on Piazza. 
-- All assignments are due at 11:59PM (unless prior approval has been received) on the day they are listed. Q is for quizzes and HW for regular homeworks.
+- All assignments are due when they are listed on their document (unless prior approval has been received). Q is for quizzes, HW for regular homeworks, and P for projects.
 - Reading assignments are from _Discrete Mathematics With Applications, 5th Ed._ by Epp; They are strongly encouraged but you are welcome to read any text that helps you. You are expected to have some understanding of the linked questions for that day. 
-- Slides/Notes will be posted after each lecture as a link for the class topic. 
 
 | Week   | Lecture | Date         | Due |Reading        |                   Topic             	    | 
 |:------:|---|:------------:| ----|---------------| ------------------------------------------|
@@ -12,6 +10,6 @@
 |        | 2 | 06.04        |    |[2.3,2.4](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture02.md)         | Arguments and digitial logic circuits	[[notes](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/notes/lecture02.pdf)/[slides](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/slides/lecture02.pdf)]				  | 
 |        | 3 | 06.05        |  |[3.1,3.2](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture03.md)         | Quantified Logic 		     |
 |        | 4 | 06.06        |   [Q](https://canvas.colorado.edu/courses/49984/quizzes/64544)  |[3.3,3.4](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture04.md)         | Multiple Quantifiers and arguments   			               |
-| 2      | 5 | 06.10        | [HW](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/hw1.pdf)/[PROJECT](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/project1.pdf)  |[4.1](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture05.md)             | Proof intro, writing, guide   	         |	
+| 2      | 5 | 06.10        | [HW](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/hw1.pdf)/[P](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/project1.pdf)  |[4.1](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture05.md)             | Proof intro, writing, guide   	         |	
 |  4      | | 06.28        |    |                | **MIDTERM**        |
 |   8     |  | 07.26        |    |                |     **Final exam**      |    
