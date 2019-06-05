@@ -11,8 +11,8 @@ Requires prerequisite courses of (CSCI 1200 or CSCI 1300 or CSCI 1310 or CSCI 13
 
 * **Office Hours**: 
 Regular office hours will be held in ECOT 731:
-  * Mondays 4pm-5pm
-  * Wednesdays 1pm-2pm
+  * Mondays and Thursdays 4pm-5pm
+
 *I am always available for appointment though!*
 
 ### Course philosophy
