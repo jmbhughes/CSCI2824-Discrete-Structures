@@ -1,0 +1,148 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Do not alter this block (unless you're familiar with LaTeX
+\documentclass{article}
+\usepackage[margin=1in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb,amsfonts, fancyhdr, color, comment, graphicx, environ}
+\usepackage{xcolor}
+\usepackage{mdframed}
+\usepackage[shortlabels]{enumitem}
+\usepackage{indentfirst}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+
+\pagestyle{fancy}
+
+
+\newenvironment{problem}[2][Problem]
+    { \begin{mdframed}[backgroundcolor=gray!20] \textbf{#1 #2} \\}
+    {  \end{mdframed}}
+
+% Define solution environment
+\newenvironment{solution}
+    {\textit{Proof:}}
+    {}
+
+\renewcommand{\qed}{\quad\qedsymbol}
+
+% prevent line break in inline mode
+\binoppenalty=\maxdimen
+\relpenalty=\maxdimen
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Fill in the appropriate information below
+\lhead{Your name: }
+\rhead{CSCI 2824-310} 
+\chead{\textbf{Homework 2  Due: 17 June 2019 at beginning at class}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\begin{problem}{1}
+\textbf{[4pts]} \textit{Prove or disprove}: For every integer $n$, if $n$ is even then $n^2 + 1$ is prime. 
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\begin{problem}{2}
+\textbf{[4pts]} \textit{Prove or disprove}: The average of any two odd integers is odd. 
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\begin{problem}{3}
+\textbf{[4pts]} \textit{Prove or disprove}: For any rational number $r$, then $3r^2 - 2r + 4$ is rational. (Read the next problem before attempting.)
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\begin{problem}{4}
+\textbf{[10 pts]} Prove that if one solution of a quadratic equation of the form $x^2 + bx + c = 0$ is rational, with $b$ and $c$ being rational, then the other solution is also rational.
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\begin{problem}{5}
+\textbf{[5pts]} As a follow-up to the last question, let $p(x) = a_k x^k + a_{k-1} x^{k-1} + \ldots + a_1 x^1 + a_0$ be a polynomial. Show that the rationals are closed under polynomial evaluation, i.e. if $r$ is a rational number, then $p(r)$ is also rational. (The purpose of this problem is to emphasize that when you want to prove something very general, it helps to prove something specific and gain intuition first.)
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\begin{problem}{6}
+\textbf{[10 pts]} Prove that if the decimal representation of a nonnegative integer $n$ ends in $d_1 d_0$ and if $4 | (10d_1 + d_0)$, then $4|n$.
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\begin{problem}{7}
+\textbf{[10 pts]} A matrix $\textbf{A}$ has 3 rows and 4 columns:
+\[
+    \begin{bmatrix} 
+        a_{11} & a_{12} & a_{13} & a_{14} \\
+        a_{21} & a_{22} & a_{23} & a_{24} \\
+        a_{31} & a_{32} & a_{33} & a_{34} 
+    \end{bmatrix}
+\]
+The 12 entries in the matrix are to be stored in \textit{row major} form in locations 7609 to 7620 in a computer's memory. This means that the entires in the first row (reading left to right) are stored first, then entries in the second row, and finally entries in the third row.
+\begin{itemize}
+    \item Which location with $a_{22}$ be stored in?
+    \item Write a formula in $i$ and $j$ that gives the integer $n$ so that $a_{ij}$ is stored in location $7609 + n$. 
+    \item Find formulas in $n$ for $r$ and $s$ so that $a_{rs}$ is stored in location $7609 + n$.
+    \item Now generalize! Let $M$ be a matrix with $m$ rows and $n$ columns, and suppose that the entries are stored in the computer's memory in row major form in locations $N, N+1, N+2, \ldots, N+mn-1$. Find formulas in $k$ for $r$ and $s$ so that $a_{rs}$ is stored in location $N+k$.
+\end{itemize}
+\end{problem}
+
+\begin{solution}
+\end{solution}
+
+\newpage
+\begin{problem}{8}
+\textbf{[10 pts]} We define reciprocal of a nonzero real number $x$ as $1/x$. Consider the statement ``The reciprocal of any irrational number is irrational."  Prove this statement using both contraposition and contradiction.
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\begin{problem}{9}
+\textbf{[10pts]} Prove that there exists a \textbf{unique} prime number of the form $n^2 + 4n - 5$, where $n$ is a positive integer.
+\end{problem}
+
+\begin{solution}
+\end{solution}
+
+
+\begin{problem}{10}
+\textbf{[11pts]} \item Find a formula for
+$$ \frac{1}{1\cdot 2} + \frac{1}{2\cdot 3} + \cdots + \frac{1}{n\cdot (n+1)}\ \ \ n\in\mathbb{Z}^+\ \ \ \text{(positive integers)}$$
+Prove that your formula is correct. Be sure to state whether you are using strong induction or weak induction.
+\end{problem}
+
+\begin{solution}
+\end{solution}
+
+\begin{problem}{11}
+\textbf{[10pts]} Show by induction that $\forall n\in\mathbb{N}$, $(n+3)^2\geq n^2+9$. Be sure to state whether you are using strong induction or weak induction.
+\end{problem}
+
+\begin{solution}
+\end{solution}
+
+\begin{problem}{12 (Extra Credit)}
+\textbf{[10pts]} Prove that $$\sum_{j=1}^n j(j+1)(j+2)\cdots(j+k-1)=\frac{n(n+1)(n+2)\cdots(n+k)}{k+1}$$ for all positive integers $k$ and $n$.
+\end{problem}
+
+\begin{solution}
+\end{solution}
+
+\begin{problem}{Reflection}
+\textbf{[3pts]} Exercise a growth mentality by reflecting on this assignment and your work. Feel free to say whatever you want, but you are required to answer the following. You are graded on whether you complete this, not on what you say.
+\begin{itemize}
+\item How many hours did you spend on this assignment?
+\item What problem was hardest? Why?
+\item What problem was easiest? Why?
+\end{itemize}
+\end{problem}
+\end{document}
