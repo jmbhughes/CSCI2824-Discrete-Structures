@@ -11,6 +11,7 @@
 |        | 3 | 06.05        |  |[3.1,3.2](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture03.md)         | Quantified Logic 	[[notes](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/notes/lecture03.pdf)]	     |
 |        | 4 | 06.06        |   [Q](https://canvas.colorado.edu/courses/49984/quizzes/64544)  |[3.3,3.4](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture04.md)         | Multiple Quantifiers and arguments  [[notes](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/notes/lecture04.pdf)] 			               |
 | 2      | 5 | 06.10        | [HW](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/hw1.pdf)/[P](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/homework/project1.pdf)  |[4.1](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture05.md)             | Proof intro, writing, guide [[notes](notes/lecture05.pdf)]   	         |
+|        | 6 | 06.11        | | Induction [[notes](notes/lecture06.pdf)]
 | 3      |  9 | 06.17        | [HW](https://www.overleaf.com/read/cxzsjxxwhvgg) | | Set Theory          | 
 |  4      | | 06.28        |    |                | **MIDTERM**        |
 |  8     |  | 07.26        |    |                |     **Final exam**      |    
