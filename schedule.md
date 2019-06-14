@@ -16,7 +16,7 @@
 |        | 8 | 06.13        | | [4.5,4.6,4.7](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/questions/lecture08.md) | Proof practice, sequences, and sets [[notes](notes/lecture08.pdf)]
 |        |    | 06.14       | [Q](https://canvas.colorado.edu/courses/49984/quizzes/64940)
 | **3**      |  9 | 06.17        | [HW](https://www.overleaf.com/read/cxzsjxxwhvgg) | [5.1, 5.6, 5.6, 5.8, 5.9](questions/lecture09.md) | More Sequences and algorithm correctness  | 
-|        | 10 | 06.18        | Q |[6.1, 6.2, 6.3, 6.4](questions/lecture10.md) | Set theory |
+|        | 10 | 06.18        | [Q](https://canvas.colorado.edu/courses/49984/quizzes/66958) |[6.1, 6.2, 6.3, 6.4](questions/lecture10.md) | Set theory |
 |        | 11 | 06.19        |   | [7.1, 7.2, 7.3](questions/lecture11.md) | Functions  |
 |        | 12 | 06.20        |   | [7.4](questions/lecture12.md) | Computability and practice day | 
 |        |    | 06.21        | Q | | |
