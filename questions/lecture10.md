@@ -1,0 +1,11 @@
+# Learning Questions: Lecture 10
+- What is a set? 
+- Why is set theory so important? 
+- What is set equality? 
+- What does it mean for sets to be disjoint? 
+- What is a partition? 
+- What is the power set? 
+- What is a subset? 
+- What is Russell's paradox? 
+- What is the halting problem? 
+- What is a Boolean algebra? 
