@@ -24,5 +24,5 @@
 |        | 14 | 06.25        |      | | |
 |        | 15 | 06.26        |      | | |
 |        | 16 | 06.27        |      | | Review day for questions and activity|
-|        |    | 06.28        |      | | **MIDTERM**        |
-|  **8**     |  | 07.26        |    |                |     **Final exam**      |    
+|        |    | 06.28        |      | | **MIDTERM**    12-1:50pm in RAMY N1B23    |
+|  **8**     |  | 07.26        |    |                |     **Final exam**  12-1:50pm in DUAN G125    |    
