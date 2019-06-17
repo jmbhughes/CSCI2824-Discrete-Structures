@@ -1,0 +1,142 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Do not alter this block (unless you're familiar with LaTeX
+\documentclass{article}
+\usepackage[margin=1in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb,amsfonts, fancyhdr, color, comment, graphicx, environ}
+\usepackage{mathtools}
+\usepackage{xcolor}
+\usepackage{mdframed}
+\usepackage[shortlabels]{enumitem}
+\usepackage{indentfirst}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\pagestyle{fancy}
+
+\newenvironment{problem}[2][Problem]
+    { \begin{mdframed}[backgroundcolor=gray!20] \textbf{#1 #2} \\}
+    {  \end{mdframed}}
+
+% Define solution environment
+\newenvironment{solution}
+    {\textit{Proof:}}
+    {}
+
+\renewcommand{\qed}{\quad\qedsymbol}
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+% prevent line break in inline mode
+\binoppenalty=\maxdimen
+\relpenalty=\maxdimen
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Fill in the appropriate information below
+\lhead{Your name: }
+\rhead{CSCI 2824} 
+\chead{\textbf{Homework 3  Due: 24 June 2019 at beginning at class}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{mdframed}[backgroundcolor=blue!20]
+\LaTeX submissions are mandatory. Submitting your assignment in another format will result in a \textbf{loss of 10 points} on the assignment. The template is \href{https://www.overleaf.com/read/gzrhrggvggwb}{here}.
+\end{mdframed}
+
+\begin{problem}{1}
+\textbf{[12pts]} Let $A=\{a,b\}$, $B=\{1,2\}$, and $C=\{1,\{\varnothing, 2\}\}$. Find each of the following sets:
+\begin{enumerate}[label=(\alph*)]
+    \item $A\times (B\cup C)$
+    \item $A\times (B\cap C)$
+    \item $(A\times B)\cup(A\times C)$
+    \item $(A\times B)\cap(A\times C)$
+\end{enumerate}
+\end{problem}
+\begin{solution}
+    % your solution here
+\end{solution}
+
+\begin{problem}{2}
+\textbf{[10pts]} We saw in class that for sets $A$ and $B$, the cardinality of their union is given by:
+$$ |A\cup B|=|A|+|B|-|A\cap B| $$
+Prove the following analogous rule for the union of three sets:
+$$ |A\cup B\cup C|=|A|+|B|+|C|-|A\cap B|-|B\cap C|-|A\cap C|+|A\cap B\cap C| $$
+\textbf{Hint:} Start by treating $(B\cup C)$ as one set and then apply the two-set rule given above, along with set identities from lecture. You may use the two-set rule as a given and it can help to draw a Venn diagram.
+\end{problem}
+\begin{solution}
+    % your solution here
+\end{solution}
+
+\begin{problem}{3}
+\textbf{[20pts]} Let $A=\{x\in\mathbb{Z}\mid x=5a+2, a\in\mathbb{Z}\}$, $B=\{y\in\mathbb{Z}\mid y=10b-3, b\in\mathbb{Z}\}$, and 
+
+$C=\{z\in\mathbb{Z}\mid z=10c+7, c\in\mathbb{Z}\}$. \textit{Prove or disprove} the following:
+\begin{enumerate}[label=(\alph*)]
+    \item $A\subseteq B$
+    \item $B\subseteq A$
+    \item $B=C$
+\end{enumerate}
+\end{problem}
+\begin{solution}
+    % your solution here
+\end{solution}
+
+\begin{problem}{4}
+\textbf{[20pts]} For the following functions determine whether they are injective, surjective, both or neither.
+\begin{enumerate}[label=(\alph*)]
+\item $f:\mathbb{Z}\rightarrow\mathbb{Z}$, $f(n)=n+1$
+\item $g:\mathbb{Z}\rightarrow\mathbb{Z}$, $g(n)=\ceil{\frac{n}{2}}$
+\item $h:\mathbb{R\rightarrow\mathbb{R}}$, $h(x) = (x^2+1)/(x^2+2)$
+\item $j:\mathbb{Z}\times\mathbb{Z}\rightarrow\mathbb{Z}$, $j(m,n)=3^m5^n$
+\end{enumerate}
+\end{problem}
+\begin{solution}
+    % your solution here
+\end{solution}
+
+\begin{problem}{5}
+\textbf{[10pts]} For the following function definitions, provide a domain and codomain that ensures it is actually a function. Remember that the codomain does not have to be precisely the range.
+\begin{enumerate}[label=(\alph*)]
+    \item $m(x)=\sqrt{x+1}$
+    \item $n(x)=5$
+    \item $p(x)=1/(x^2+2)$
+\end{enumerate}
+\end{problem}
+\begin{solution}
+    % your solution here
+\end{solution}
+
+\begin{problem}{6}
+\textbf{[15pts]}  Consider the following sequence:
+$$ 3,7,15,31,63,... $$
+\begin{enumerate}[label=(\alph*)]
+    \item Find the next three elements of the sequence
+    \item Come up with a recurrence relation for the sequence
+    \item Find a closed form for the recurrence relation you found and prove that it is a solution to the recurrence relation.
+\end{enumerate}
+\end{problem}
+\begin{solution}
+    % your solution here
+\end{solution}
+
+\begin{problem}{7}
+\textbf{[10pts]} Prove that the cardinality of the integers is the same as that of the \textit{even} integers.
+\end{problem}
+\begin{solution}
+    % your solution here
+\end{solution}
+
+\begin{problem}{Reflection}
+\textbf{[3pts]} Exercise a growth mentality by reflecting on this assignment and your work. Feel free to say whatever you want, but you are required to answer the following. You are graded on whether you complete this, not on what you say.
+\begin{itemize}
+\item How many hours did you spend on this assignment?
+\item What problem was hardest? Why?
+\item What problem was easiest? Why?
+\end{itemize}
+\end{problem}
+\end{document}

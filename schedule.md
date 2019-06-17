@@ -20,7 +20,7 @@
 |        | 11 | 06.19        |   | [7.1, 7.2, 7.3](questions/lecture11.md) | Functions  |
 |        | 12 | 06.20        |   | [7.4](questions/lecture12.md) | Computability and practice day | 
 |        |    | 06.21        | Q | | |
-| **4**  | 13 | 06.24        | HW/P | | |
+| **4**  | 13 | 06.24        | [HW](https://www.overleaf.com/read/gzrhrggvggwb)/[P](homework/project3.pdf) | | |
 |        | 14 | 06.25        |      | | |
 |        | 15 | 06.26        |      | | |
 |        | 16 | 06.27        |      | | Review day for questions and activity|

@@ -9,3 +9,5 @@ If you're an instructor for another course or using these notes for self-study, 
 | HW 1       | [PDF](hw1.pdf) | [LaTeX](hw1.tex) | [Overleaf](https://www.overleaf.com/read/gnqfhyjnrysh) | 06.10 |
 | Project 1  | [PDF](project1.pdf) | | | 06.10 |
 | HW 2       | [PDF](hw2.pdf) | [LaTeX](hw2.tex) | [Overleaf](https://www.overleaf.com/read/cxzsjxxwhvgg) | 06.17 |
+| HW 3       | [PDF](hw3.pdf) | [LaTeX](hw3.tex) | [Overleaf](https://www.overleaf.com/read/gzrhrggvggwb) | 06.24 |
+| Project 3  | [PDF](project3.pdf) | | | 06.24 | 
