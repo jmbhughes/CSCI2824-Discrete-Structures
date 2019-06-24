@@ -20,9 +20,9 @@
 |        | 11 | 06.19        |   | [7.1, 7.2, 7.3](questions/lecture11.md) | Functions [[notes](notes/lecture11.pdf)]|
 |        | 12 | 06.20        |   | [7.4](questions/lecture12.md) | Computability and practice day [[notes](notes/lecture12.pdf)]| 
 |        |    | 06.21        | Q | | |
-| **4**  | 13 | 06.24        | [HW](https://www.overleaf.com/read/gzrhrggvggwb)/[P](homework/project3.pdf) | | |
-|        | 14 | 06.25        |      | | |
-|        | 15 | 06.26        |      | | |
-|        | 16 | 06.27        |      | | Review day for questions and activity|
+| **4**  | 13 | 06.24        | [HW](https://www.overleaf.com/read/gzrhrggvggwb)/[P](homework/project3.pdf) | [11.1, 11.2](questions/lecture13.md) | Algorithm Analysis [[notes](notes/lecture13.pdf)]|
+|        | 14 | 06.25        |      | [11.3, 11.4](questions/lecture14.pdf) | More algorithm analysis |
+|        | 15 | 06.26        |      | | Review day for questions and activity |
+|        | 16 | 06.27        |      | [11.5](questions/lecture16.pdf) | Isn't it fun to analyze algos?|
 |        |    | 06.28        |      | | **MIDTERM**    12-1:50pm in RAMY N1B23    |
 |  **8**     |  | 07.26        |    |                |     **Final exam**  12-1:50pm in DUAN G125    |    
