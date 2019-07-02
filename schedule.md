@@ -23,7 +23,7 @@
 | **4**  | 13 | 06.24        | [HW](https://www.overleaf.com/read/gzrhrggvggwb)/[P](homework/project3.pdf) | [11.1, 11.2](questions/lecture13.md) | Algorithm Analysis [[notes](notes/lecture13.pdf)]|
 |        | 14 | 06.25        |      | [11.3, 11.4](questions/lecture14.pdf) | More algorithm analysis [[notes](notes/lecture14.pdf)]|
 |        | 15 | 06.26        |      | [11.5](questions/lecture16.pdf) | Graph theory ideas [[notes](notes/lecture15.pdf)] |
-|        | 16 | 06.27        |      |  | Review day for questions and activity  [[notes](notes/lecture16.md)|
+|        | 16 | 06.27        |      |  | Review day for questions and activity  [[notes](notes/lecture16.md)]|
 |        |    | 06.28        |      | | **MIDTERM**    12-1:50pm in RAMY N1B23    |
 | **5**  | 17 | 07.01        |      | | Cryptography and Modular arithmetic [[notes](notes/lecture17.pdf)]
 |        | 18 | 07.02        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/70817)    | | Equivalence relations and modular arithmetic | 
