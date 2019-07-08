@@ -19,7 +19,7 @@
 |        | 10 | 06.18        | [Q](https://canvas.colorado.edu/courses/49984/quizzes/66958) |[6.1, 6.2, 6.3, 6.4](questions/lecture10.md) | Set theory [[notes](notes/lecture10.pdf)]|
 |        | 11 | 06.19        |   | [7.1, 7.2, 7.3](questions/lecture11.md) | Functions [[notes](notes/lecture11.pdf)]|
 |        | 12 | 06.20        |   | [7.4](questions/lecture12.md) | Computability and practice day [[notes](notes/lecture12.pdf)]| 
-|        |    | 06.21        | Q | | |
+|        |    | 06.21        | [Q](https://canvas.colorado.edu/courses/49984/quizzes/67951) | | |
 | **4**  | 13 | 06.24        | [HW](https://www.overleaf.com/read/gzrhrggvggwb)/[P](homework/project3.pdf) | [11.1, 11.2](questions/lecture13.md) | Algorithm Analysis [[notes](notes/lecture13.pdf)]|
 |        | 14 | 06.25        |      | [11.3, 11.4](questions/lecture14.pdf) | More algorithm analysis [[notes](notes/lecture14.pdf)]|
 |        | 15 | 06.26        |      | [11.5](questions/lecture16.pdf) | Graph theory ideas [[notes](notes/lecture15.pdf)] |
@@ -29,9 +29,9 @@
 |        | 18 | 07.02        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/70817)    | | Equivalence relations and modular arithmetic | 
 |        | 19 | 07.03        |      | | Number theory and partial ordering | 
 |        |    | 07.04        |      | | **Happy July 4th! No class**|
-|        |    | 07.05        |  Q   | | |
+|        |    | 07.05        |     | | |
 |  **6** | 20 | 07.08        |      | | |
-|        | 21 | 07.09        |  Q/[HW](https://www.overleaf.com/read/pntfhvrgfmdc)  | | |
+|        | 21 | 07.09        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71079)/[HW](https://www.overleaf.com/read/pntfhvrgfmdc)  | | |
 |        | 22 | 07.10        |      | | |
 |        | 23 | 07.11        |      | | |
 |        |    | 07.12        |  Q   | | |
