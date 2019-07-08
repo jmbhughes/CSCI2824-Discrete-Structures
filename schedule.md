@@ -35,7 +35,7 @@
 |        | 22 | 07.10        |      | 9.8, 9.9| |
 |        | 23 | 07.11        |      | review, catch-up, and ML| |
 |        |    | 07.12        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71159)   | | |
-|  **7** | 24 | 07.15        |  [P](homework/project4.pdf)/[HW](homework/hw5.pdf)    | 10.1, 10.2 | |
+|  **7** | 24 | 07.15        |  [P](homework/project4.pdf)/[HW](https://www.overleaf.com/read/kcnkxvbynjtf)    | 10.1, 10.2 | |
 |        | 25 | 07.16        |  Q   | 10.3| |
 |        | 26 | 07.17        |      | 10.4, 10.5 | |
 |        | 27 | 07.18        |      | 10.6 | |
