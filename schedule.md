@@ -25,9 +25,9 @@
 |        | 15 | 06.26        |      | [11.5](questions/lecture16.pdf) | Graph theory ideas [[notes](notes/lecture15.pdf)] |
 |        | 16 | 06.27        |      |  | Review day for questions and activity  [[notes](notes/lecture16.md)]|
 |        |    | 06.28        |      | | **MIDTERM**    12-1:50pm in RAMY N1B23    |
-| **5**  | 17 | 07.01        |  [Exam](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/misc/midterm_takehome.pdf)    | | Cryptography and Modular arithmetic [[notes](notes/lecture17.pdf)]
-|        | 18 | 07.02        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/70817)    | | Equivalence relations and modular arithmetic | 
-|        | 19 | 07.03        |      | | Number theory and partial ordering | 
+| **5**  | 17 | 07.01        |  [Exam](https://github.com/jmbhughes/CSCI2824-Discrete-Structures/blob/master/misc/midterm_takehome.pdf)    | 8.1, 8.2 | Cryptography and Modular arithmetic [[notes](notes/lecture17.pdf)]
+|        | 18 | 07.02        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/70817)    | 8.3, 8.4 | Equivalence relations and modular arithmetic | 
+|        | 19 | 07.03        |      | 8.5 | Number theory and partial ordering | 
 |        |    | 07.04        |      | | **Happy July 4th! No class**|
 |        |    | 07.05        |     | | |
 |  **6** | 20 | 07.08        |      | 9.1, 9.2, 9.3, 9.4| |
