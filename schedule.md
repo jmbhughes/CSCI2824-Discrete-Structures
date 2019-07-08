@@ -30,18 +30,18 @@
 |        | 19 | 07.03        |      | | Number theory and partial ordering | 
 |        |    | 07.04        |      | | **Happy July 4th! No class**|
 |        |    | 07.05        |     | | |
-|  **6** | 20 | 07.08        |      | | |
-|        | 21 | 07.09        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71079)/[HW](https://www.overleaf.com/read/pntfhvrgfmdc)  | | |
-|        | 22 | 07.10        |      | | |
-|        | 23 | 07.11        |      | | |
+|  **6** | 20 | 07.08        |      | 9.1, 9.2, 9.3, 9.4| |
+|        | 21 | 07.09        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71079)/[HW](https://www.overleaf.com/read/pntfhvrgfmdc)  | 9.5, 9.6, 9.7| |
+|        | 22 | 07.10        |      | 9.8, 9.9| |
+|        | 23 | 07.11        |      | review, catch-up, and ML| |
 |        |    | 07.12        |  Q   | | |
-|  **7** | 24 | 07.15        |  [P](homework/project4.pdf)/[HW](homework/hw5.pdf)    | | |
-|        | 25 | 07.16        |  Q   | | |
-|        | 26 | 07.17        |      | | |
-|        | 27 | 07.18        |      | | |
+|  **7** | 24 | 07.15        |  [P](homework/project4.pdf)/[HW](homework/hw5.pdf)    | 10.1, 10.2 | |
+|        | 25 | 07.16        |  Q   | 10.3| |
+|        | 26 | 07.17        |      | 10.4, 10.5 | |
+|        | 27 | 07.18        |      | 10.6 | |
 |        |    | 07.19        |  Q   | | |
-|  **8** | 28 | 07.22        |      | | |
-|        | 29 | 07.23        |  Q   | | |
-|        | 30 | 07.24        |      | | |
-|        | 31 | 07.25        |      | | |
+|  **8** | 28 | 07.22        |      | 12.1 | |
+|        | 29 | 07.23        |  Q   | 12.2| |
+|        | 30 | 07.24        |      | **Review day**| |
+|        | 31 | 07.25        |      | 12.3| |
 |        |    | 07.26        |      | | **Final exam**  12-1:50pm in DUAN G125    |    
