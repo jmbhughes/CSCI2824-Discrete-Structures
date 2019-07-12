@@ -33,7 +33,7 @@
 |  **6** | 20 | 07.08        |      | 9.1, 9.2, 9.3, 9.4| |
 |        | 21 | 07.09        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71079)/[HW](https://www.overleaf.com/read/pntfhvrgfmdc)  | 9.5, 9.6, 9.7| |
 |        | 22 | 07.10        |      | 9.8, 9.9| [Warm-up problems](notes/combinations.pdf) | 
-|        | 23 | 07.11        |      | review, catch-up, and ML| |
+|        | 23 | 07.11        |      | review, catch-up, and ML| [markov chains](https://www.stat.auckland.ac.nz/~fewster/325/notes/ch8.pdf)|
 |        |    | 07.12        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71159)   | | |
 |  **7** | 24 | 07.15        |  [P](homework/project4.pdf)/[HW](https://www.overleaf.com/read/kcnkxvbynjtf)    | 10.1, 10.2 | |
 |        | 25 | 07.16        |  Q   | 10.3| |
