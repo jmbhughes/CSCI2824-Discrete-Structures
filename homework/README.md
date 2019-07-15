@@ -12,4 +12,6 @@ If you're an instructor for another course or using these notes for self-study, 
 | HW 3       | [PDF](hw3.pdf) | [LaTeX](hw3.tex) | [Overleaf](https://www.overleaf.com/read/gzrhrggvggwb) | 06.24 |
 | Project 3  | [PDF](project3.pdf) | | | 06.24 | 
 | HW 4       | [PDF](hw4.pdf) | [LaTeX](hw4.zip) | [Overleaf](https://www.overleaf.com/read/pntfhvrgfmdc) | 07.09 |
-| HW 5       | [PDF](hw5.pdf) | [LaTeX](hw5.zip) | [Overleaf](https://www.overleaf.com/read/kcnkxvbynjtf)  | 07.15 |
+| Project 4  | [Pdf](project4.pdf) | | | 07.15 |
+| HW 5       | [PDF](hw5.pdf) | [LaTeX](hw5.zip) | [Overleaf](https://www.overleaf.com/read/kcnkxvbynjtf) | 07.15 |
+| HW 6       | [PDF](hw6.pdf) | [LaTeX](hw6.zip) | [Overleaf](https://www.overleaf.com/read/ymrcgswhypzw) | 07.22 |
