@@ -1,6 +1,8 @@
 # Notes
 
-All course notes are available here. If you see an error, please let me know either on Piazza (for those in the course) or by email (for everyone else).
+If you see an error, please let me know either on Piazza (for those in the course) or by email (for everyone else).
+
+Solutions to practices are available on Canvas. If you're not in the course and would like to see them for self-study or for your class, please email me at [hughes.jmb@gmail.com](mailto:hughes.jmb@gmail.com). They are not listed here to preclude cheating. 
 
 ## Index
 
@@ -12,3 +14,5 @@ All course notes are available here. If you see an error, please let me know eit
 | [midterm_takehome.pdf](midterm_takehome.pdf) | 28 June 2019 | Take home midterm
 | [midterm_takehome.zip](midterm_takehome.zip) | 28 June 2019 | Take home midterm source
 | [frogs.md](frogs.md) | 08 July 2019 | A problem of counting with frogs
+| [final_practice.pdf](final_practice.pdf) | 15 July 2019 | Practice problems for final exam
+| [final_topics.pdf](final_topics.pdf) | 15 July 2019 | Topics that can come up on the final exam
