@@ -31,7 +31,7 @@ _Computer Science_ is all about solving interesting problems efficiently and che
 * Understand how to sequence the human genome.
 * Find all the prime factors for really large number (> 10^10000).
 * Write a program to play _go_ (and play better than the best human champion?).
-* Find al anomalies in a data set and explain why they are anomalous (keeps your instructor awake at night!).
+* Find all anomalies in a data set and explain why they are anomalous (keeps your instructor awake at night!).
 
 Some of these problems are [really hard](http://en.wikipedia.org/wiki/NP-complete) to solve using a computer. No one knows if there are easy solutions to these problems and it would be nice to see efficient solutions in this century. In this course, we will cover the mathematical foundations that will help us formulate solutions to some of the real problems above. Specifically, we will learn
 
@@ -73,7 +73,7 @@ Homework will consist of proofs and programming assignments. Proofs will help yo
 
 Please be mindful of the due dates as unexcused late submissions will not be accepted. If there is some situation that you feel necessitates an extension, please contact me **before** the due date, so we can arrange appropriate modification. Your learning takes priority over deadlines. 
 
-**Quizzes**: We will sometimes have in-class exercises that will count as quiz grades. This will serve to keep you engaged during class as well as serve as an attendance check. In addition, we will have short online quizzes relating to the recent material due every Tuesday and Thursday at 11:59pm. These should not take long and will help you evaluate whether you understand the concepts. I will use them to judge how the course needs to be adjusted.
+**Quizzes**: We will sometimes have in-class exercises that will count as quiz grades. This will serve to keep you engaged during class as well as serve as an attendance check. In addition, we will have short online quizzes relating to the recent material. These should not take long and will help you evaluate whether you understand the concepts. I will use them to judge how the course needs to be adjusted.
 
 **Exams**: There will be a two-part midterm half-way through the course and a **cumulative** final exam given during the university scheduled final examination time.  The midterm will consist of an in-class portion with knowledge check questions and some simpler proofs from in-class and the homeworks. The out-of-class portion will be available for 48 hours and will have some harder proofs and exercises. I do not want you to feel time pressure when trying to create creative proofs. We will then meet individually to discuss your approach and progress. The final will be completely in-class and will assess your overall understanding. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
@@ -111,7 +111,7 @@ The collaboration policy is simple:
 
 * **Inspiration is free**: you may discuss homework assignments with anyone. You are especially encouraged to discuss solutions with your instructor and your classmates.
 
-* **Plagiarism is forbidden**: the assignments **and code** that you turn in should be written entirely on your own. While writing the assignment you are not allowed to consult any source other than textbooks, your own class notes or the posted lecture slides. Copying/consulting from the solution of another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in an **F** in the course and a trip to the honor council.
+* **Plagiarism is forbidden**: the assignments **and code** that you turn in should be written entirely on your own. While writing the assignment you are not allowed to consult any source other than textbooks, your own class notes, or the posted lecture materials. Copying/consulting from the solution of another classmate constitutes a violation of the course's collaboration policy and the honor code and will result in an **F** in the course and a trip to the honor council.
 
 * **Do not search for a solution on-line**: You may not actively search for a solution to the problem from the internet. This includes posting to sources like StackExchange, Reddit, Chegg, etc. 
 
