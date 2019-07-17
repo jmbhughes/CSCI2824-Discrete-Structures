@@ -37,7 +37,7 @@
 |        |    | 07.12        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71159)   | | |
 |  **7** | 24 | 07.15        |  [P](homework/project4.pdf)/[HW](https://www.overleaf.com/read/kcnkxvbynjtf)    | 1.4, 4.9, 10.1, 10.2 | |
 |        | 25 | 07.16        |  Q   | 10.3|  Tours [[notes](https://ocw.mit.edu/high-school/mathematics/combinatorics-the-fine-art-of-counting/lecture-notes/MITHFH_lecturenotes_8.pdf)] |
-|        | 26 | 07.17        |      | 10.4, 10.5 | Graph coloring [[notes](https://ocw.mit.edu/high-school/mathematics/combinatorics-the-fine-art-of-counting/lecture-notes/MITHFH_lecturenotes_9.pdf)]|
+|        | 26 | 07.17        |      | 10.4, 10.5 | Graph coloring [[notes](https://ocw.mit.edu/high-school/mathematics/combinatorics-the-fine-art-of-counting/lecture-notes/MITHFH_lecturenotes_9.pdf)] [Brooks' theorem](http://faculty.wwu.edu/sarkara/brooks.pdf)/[five-color-theorem](http://mathonline.wikidot.com/5-colour-theorem-for-planar-graphs)|
 |        | 27 | 07.18        |      | 10.6 | |
 |        |    | 07.19        |  Q   | | |
 |  **8** | 28 | 07.22        |  [HW](https://www.overleaf.com/read/ymrcgswhypzw)    | 12.1 | |
