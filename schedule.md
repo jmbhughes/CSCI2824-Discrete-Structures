@@ -44,4 +44,4 @@
 |        | 29 | 07.23        |  Q   | 12.2| |
 |        | 30 | 07.24        |      | **Review day**| |
 |        | 31 | 07.25        |      | 12.3| |
-|        |    | 07.26        |      | | **Final exam**  12-1:50pm in DUAN G125    |    
+|        |    | 07.26        | [bonus](misc/bonus.md) | | **Final exam**  12-1:50pm in DUAN G125    |    
