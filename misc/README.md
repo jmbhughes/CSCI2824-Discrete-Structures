@@ -17,3 +17,5 @@ Solutions to practices are available on Canvas. If you're not in the course and 
 | [final_practice.pdf](final_practice.pdf) | 15 July 2019 | Practice problems for final exam
 | [final_topics.pdf](final_topics.pdf) | 15 July 2019 | Topics that can come up on the final exam
 | [bonus.pdf](bonus.pdf) | 17 July 2019 | A bonus problem. **This will count toward your exam grade!**
+| [bonus_readings.md](bonus_readings.md) | 19 July 2019 | these might help you think about the bonus problems
+| [biplanar.cdf](biplanar.cdf) | 19 July 2019 | some mathematica code to help you get computationally started
