@@ -19,3 +19,4 @@ Solutions to practices are available on Canvas. If you're not in the course and 
 | [bonus.pdf](bonus.pdf) | 17 July 2019 | A bonus problem. **This will count toward your exam grade!**
 | [bonus_readings.md](bonus_readings.md) | 19 July 2019 | these might help you think about the bonus problems
 | [biplanar.nb](biplanar.nb) | 19 July 2019 | some mathematica code to help you get computationally started
+| [bonus.zip](bonus.zip) [[overleaf](https://www.overleaf.com/read/cpscqdygcsmx)] | 19 July 2019 | template code
