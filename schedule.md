@@ -44,4 +44,4 @@
 |        | 29 | 07.23        |  Q   | 12.2| isomporphisms and spanning trees |
 |        | 30 | 07.24        |      | **Review day**| |
 |        | 31 | 07.25        |      | 12.3| |
-|        |    | 07.26        | [bonus](misc/bonus.pdf) | | **Final exam**  12-1:50pm in DUAN G125    |    
+|        |    | 07.26        | [bonus](misc/bonus.pdf) [reading that helps with bonus](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.615.5026&rep=rep1&type=pdf)| | **Final exam**  12-1:50pm in DUAN G125    |    
