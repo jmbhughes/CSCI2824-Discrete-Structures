@@ -41,7 +41,7 @@
 |        | 27 | 07.18        |      | 10.6 | isomporphisms and spanning trees |
 |        |    | 07.19        |  [Q](https://canvas.colorado.edu/courses/49984/quizzes/71674)   | | |
 |  **8** | 28 | 07.22        |  [HW](https://www.overleaf.com/read/ymrcgswhypzw)    | 12.1 | |
-|        | 29 | 07.23        |  Q   | 12.2| |
+|        | 29 | 07.23        |      | 12.2| |
 |        | 30 | 07.24        |      | **Review day**| |
 |        | 31 | 07.25        |      | 12.3| |
 |        |    | 07.26        | [bonus](misc/bonus.pdf)/[reading that helps with bonus](misc/bonus_readings.md)| | **Final exam**  12-1:50pm in DUAN G125    |    
